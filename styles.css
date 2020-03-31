@@ -1,0 +1,166 @@
+body{
+margin: 0;
+text-align: center;
+font-family: sans-serif;
+color: #000000;
+
+}
+h2{
+  color: #116979;
+  font-weight: bold;
+  padding-bottom: 10px;
+
+}
+h3{
+  color:#116979;
+}
+hr {
+    background-color: white;
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 10px;
+    width: 4%;
+}
+
+
+
+
+.Head{
+  position:relative;
+  background-color: #ffd5ab;
+  margin:0;
+  padding-top: 30px;
+  height:675px;
+  width: 100%;
+
+}
+.myimg{
+  border-radius: 50%;
+  height:100px;
+  width:100px;
+}
+.H1{
+  margin-top: 0;
+  font-family: 'Dancing Script', cursive;
+  font-size: 3.125rem;
+  color: #de7119;
+
+}
+.heading-para{
+  font-family: 'Playfair Display', serif;
+  color: #de7119;
+  font-weight: normal;
+
+}
+
+
+
+
+
+
+
+.bio{
+  width:30%;
+  margin: auto;
+}
+
+.background{
+height: 600px;
+width: 100%;
+position: relative;
+bottom: 150px;
+
+}
+.Name{
+  display: inline-block;
+  background-color: #ffd5ab;
+  line-height: 2;
+}
+.skill-row{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-rowa{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+.skill-rowg{
+  width:50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.cloud{
+
+  height: 200px;
+  width: 500px;
+  position: relative;
+  right: 10px;
+  left: 10px;
+
+}
+.middle-container{
+  padding-top:50px;
+
+
+
+
+}
+
+.links{
+  background-color:  #ffd5ab;
+    padding: 10px;
+}
+
+
+.btn{
+  color: white;
+  text-decoration: none;
+  background: linear-gradient(90deg , #de7119 100%, white 0%);
+  padding: 10px;
+
+  border-radius: 15px;
+  box-shadow: 4px 5px 4px #ffd5ab;
+
+}
+.fb{
+  text-decoration: none;
+  color: #116979;
+  margin: 20px 20px;
+}
+.copyrights{
+  color: black;
+  margin-top: 40px;
+}
+.skills{
+  padding-top: 30px;
+}
+.web{
+  width:20%;
+  float: left;
+  margin-top:0;
+  margin-right: 30px;
+  margin-bottom: 20px;
+
+}
+
+.android{
+  width:20%;
+  float: right;
+  margin-top: 0;
+  margin-left:10px;
+  margin-bottom: 20px;
+}
+.game{
+  width:20%;
+  float:left;
+  margin-top: 0;
+  margin-right: 30px;
+}
+.contact-me{
+  background-color: white;
+  width:50%;
+  margin:40px auto 60px auto;
+}
